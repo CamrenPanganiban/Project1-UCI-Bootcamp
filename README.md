@@ -40,7 +40,7 @@ The configuration details of each machine may be found below.
 
 The machines on the internal network are not exposed to the public Internet. 
 
-Only the Jump Box machine can accept connections from the Internet. Access to this machine is only allowed from the Personal Home IP.
+Only the Jump Box machine can accept connections from the Internet. Access to this machine is only allowed from the Personal Home IP through SSH.
 
 Machines within the network can only be accessed by Jump Box, IP 172.31.41.120.
 
